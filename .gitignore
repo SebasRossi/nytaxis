@@ -8,9 +8,9 @@ venv/
 .vscode/
 
 # dbt
-target/
-dbt_packages/
-logs/
+/x/target/
+/x/dbt_packages/
+/x/logs/
 
 # DuckDB
 *.duckdb
